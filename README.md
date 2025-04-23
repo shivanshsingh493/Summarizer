@@ -4,7 +4,7 @@
   <h3 align="center">An AI Article Summarizer Website</h3>
 
    <div align="center">
-     Built by Vaibhav Katiyar, BTech student at Raj Kumar Goel Institute of Technology.
+     Built by Shivansh Singh, BTech student at Raj Kumar Goel Institute of Technology.
     </div>
 </div>
 
@@ -56,10 +56,7 @@ Make sure you have the following installed on your machine:
 
 **Cloning the Repository**
 
-```bash
-git clone https://github.com/kkartikeya22/summarizer
-cd summarizer
-```
+
 
 **Installation**
 
